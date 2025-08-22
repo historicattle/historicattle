@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Naren</h1>
 
-- 🔭 I’m currently working on <a href="https://github.com/historicattle/Movie-Ticketing-System">A Movie Ticketing System</a>
+- 🔭 I’m currently working on <a href="https://github.com/historicattle/Spectre">Spectre</a>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **C/C++**
 
